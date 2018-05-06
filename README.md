@@ -1,4 +1,4 @@
-# Real-Market
+ Real-Market
 Buy/Sell anything of your Ex-lover
 
 Hi, I'm Zen!
@@ -12,3 +12,6 @@ This Web/App will help you more about
 - Find someone same as your life,....
 With amazing UIs and fetures!
 Hope u like it!!!!!!! <3
+UI: CSS, JS, bootstrap framework
+DB: PhpMyAdmin
+BE: PHP, Laravel framework
