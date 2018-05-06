@@ -11,7 +11,7 @@ This Web/App will help you more about
 - Forget some memories about your ex-lover
 - Find someone same as your life,....
 
-With amazing UIs and fetures!
+With amazing UIs and features!
 
 Hope u like it!!!!!!! <3
 
