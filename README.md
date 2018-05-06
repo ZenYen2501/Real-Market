@@ -10,9 +10,12 @@ This Web/App will help you more about
 - Making money
 - Forget some memories about your ex-lover
 - Find someone same as your life,....
+
 With amazing UIs and fetures!
+
 Hope u like it!!!!!!! <3
-- Technology used: 
+
+Technology used: 
 + UI: CSS, JS, bootstrap framework
 + DB: PhpMyAdmin
 + BE: PHP, Laravel framework
