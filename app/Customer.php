@@ -12,4 +12,3 @@ class Customer extends Model
     	return $this->hasMyny('App\Bill', 'id_customer', 'id');
     }
 }
-}

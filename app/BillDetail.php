@@ -15,5 +15,3 @@ class BillDetail extends Model
     	return $this->belongsTo('App\Bill', 'id_bill', 'id');
     }
 }
-}
-}
