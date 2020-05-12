@@ -18,4 +18,4 @@ Hope u like it!!!!!!! <3
 Technology used: 
 + UI: CSS, JS, bootstrap framework
 + DB: PhpMyAdmin
-+ BE: PHP, Laravel framework
++ BE: PHP, Laravel 5x framework
