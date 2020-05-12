@@ -1,5 +1,5 @@
  Real-Market
-Buy/Sell anything of your Ex-lover
+Buy/Sell anything of Ex-lover
 
 Hi, I'm Zen!
 
